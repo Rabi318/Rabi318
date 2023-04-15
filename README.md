@@ -3,7 +3,6 @@
 <!--
 **Rabi318/Rabi318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working on college projects<br>👯 I’m looking to collaborate on a web developed company<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning <br>💬 Ask me about  web development<br>⚡ Fun fact - I am lazy but smart
 

@@ -1,3 +1,4 @@
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png)]
 <h1 align="center">Hi 👋, I'm Rabi</h1>
 <h3 align="center">A passionate Full-Stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*M4bxiCIjcTK-2Xr6.jpeg">
